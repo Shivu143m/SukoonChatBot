@@ -18,11 +18,11 @@
 <a href="https://github.com/nillcoderbot/SukoonChatBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nillcoderbot&repo=SukoonChatBot&theme=chartreuse-dark"></a>
 
 ### sᴜᴘᴘᴏʀᴛ
-<p align="center"><a href="https://telegram.me/nillcoderbot"> <img src="https://img.shields.io/badge/JOIN-SUPPORT%20GROUP-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
-<p align="center"><a href="https://telegram.me/nillcoder"> <img src="https://img.shields.io/badge/JOIN-SUPPORT%20CHANNEL-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
+<p align="center"><a href="https://telegram.me/shivu_143n"> <img src="https://img.shields.io/badge/JOIN-SUPPORT%20GROUP-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
+<p align="center"><a href="https://telegram.me/shivu_o"> <img src="https://img.shields.io/badge/JOIN-SUPPORT%20CHANNEL-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
 
 ## ʀᴇᴘᴏ ᴄʀᴇᴅɪᴛ 
 - [ᴠᴇɴᴏᴍ](https://github.com/nillcoderbot)
 
 
-<img src="https://te.legra.ph/file/1967a714b5e6d491487ed.jpg">
+<img src="https://te.legra.ph/file/fe149e956df10e42d1da5.jpg">
