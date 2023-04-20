@@ -1,4 +1,4 @@
-#Don't remove This Line From Here. @NILLCODERBOT | @NILLCODERBOT
+#Don't remove This Line From Here. @shivu_o | @shivu_o
 #Github :- @NILLCODERBOT
 import requests
 import random
@@ -35,15 +35,15 @@ START_IMG7 = os.environ.get("START_IMG7")
 START_IMG8 = os.environ.get("START_IMG8")
 START_IMG9 = os.environ.get("START_IMG9")
 START_IMG10 = os.environ.get("START_IMG10")
-STKR = os.environ.get("STKR", "CAACAgUAAxkBAAOTZD5uouYEi2oYsBrYq4_jk9agIP4AAm8JAAKZyfBVKO4HNRUHNiYvBA")
-STKR1 = os.environ.get("STKR1", "CAACAgUAAxkBAAIBCGQ-cOGKFziADjnOeqdp9VE7R7UIAALxCgACqoT4Vbgcj2R1S-_MLwQ")
-STKR2 = os.environ.get("STKR2", "CAACAgUAAxkBAAIBCWQ-cOENb22M1DDnfy7RLwFGAtLvAAIYCQACMqnwVTdYrWFbI7ZgLwQ")
-STKR3 = os.environ.get("STKR3", "CAACAgUAAxkBAAIBCmQ-cOKZRFN7hRYclWHq5lA-HfIXAALaCAACgefxVR10Fa8kA0vSLwQ")
-STKR4 = os.environ.get("STKR4", "CAACAgUAAxkBAAIBDGQ-cOL3KoZL-Zi8WgUvSx69ve1aAAK-CQACBijxVfA1XXOr8O_SLwQ")
-STKR5 = os.environ.get("STKR5", "CAACAgUAAxkBAAIBTmQ-chur2_7FVFcybvAPpcuxujJ8AAKsDQACvevwVcw_I7XTC0SaLwQ")
-STKR6 = os.environ.get("STKR6", "CAACAgUAAxkBAAIBTWQ-choRyf_DBgGXwUOhiY2ggSYzAAIdCQACriT4VZqturazsMSLLwQ")
-STKR7 = os.environ.get("STKR7", "CAACAgUAAxkBAAIBRWQ-chetCrNmPju-Bu2t31xwmpyZAAJvCQACmcnwVSjuBzUVBzYmLwQ")
-STKR8 = os.environ.get("STKR8", "CAACAgUAAxkBAAIBS2Q-chqCHBWb9oexFinVpY64W_BeAALxCgACqoT4Vbgcj2R1S-_MLwQ")
+STKR = os.environ.get("STKR", "CAACAgUAAxkBAAPeZDvIm1lyiqLf-FpoAvrJ8CKI8loAAg8KAALHcthVVJHHKtux2KcvBA)
+STKR1 = os.environ.get("STKR1", "CAACAgUAAxkBAAPeZDvIm1lyiqLf-FpoAvrJ8CKI8loAAg8KAALHcthVVJHHKtux2KcvBA)
+STKR2 = os.environ.get("STKR2", "CAACAgUAAxkBAAPeZDvIm1lyiqLf-FpoAvrJ8CKI8loAAg8KAALHcthVVJHHKtux2KcvBA)
+STKR3 = os.environ.get("STKR3", "CAACAgUAAxkBAAPeZDvIm1lyiqLf-FpoAvrJ8CKI8loAAg8KAALHcthVVJHHKtux2KcvBA)
+STKR4 = os.environ.get("STKR4", "CAACAgUAAxkBAAPeZDvIm1lyiqLf-FpoAvrJ8CKI8loAAg8KAALHcthVVJHHKtux2KcvBA)
+STKR5 = os.environ.get("STKR5", "CAACAgUAAxkBAAPeZDvIm1lyiqLf-FpoAvrJ8CKI8loAAg8KAALHcthVVJHHKtux2KcvBA)
+STKR6 = os.environ.get("STKR6", "CAACAgUAAxkBAAPeZDvIm1lyiqLf-FpoAvrJ8CKI8loAAg8KAALHcthVVJHHKtux2KcvBA)
+STKR7 = os.environ.get("STKR7", "CAACAgUAAxkBAAPeZDvIm1lyiqLf-FpoAvrJ8CKI8loAAg8KAALHcthVVJHHKtux2KcvBA)
+STKR8 = os.environ.get("STKR8", "CAACAgUAAxkBAAPeZDvIm1lyiqLf-FpoAvrJ8CKI8loAAg8KAALHcthVVJHHKtux2KcvBA)
 
 bot = Client(
     "QueenBot" ,
@@ -289,7 +289,7 @@ ABOUT_READ = f"""
 **➻ [{BOT_NAME}](https://t.me/{BOT_USERNAME}) ɪs ᴀɴ ᴀɪ ʙᴀsᴇᴅ ᴄʜᴀᴛ-ʙᴏᴛ.**
 **➻ [{BOT_NAME}](https://t.me/{BOT_USERNAME}) ʀᴇᴘʟɪᴇs ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴛᴏ ᴀ ᴜsᴇʀ.**
 **➻ ʜᴇʟᴘs ʏᴏᴜ ɪɴ ᴀᴄᴛɪᴠᴀᴛɪɴɢ ʏᴏᴜʀ ɢʀᴏᴜᴘs.**
-**➻ ᴡʀɪᴛᴛᴇɴ ɪɴ [INSTAGRAM](https://www.instagram.com/nillcoderbot) ᴡɪᴛʜ [CHANNEL](https://www.telegram.me/nillcoderbot) ᴀs ᴀ ᴅᴀᴛᴀʙᴀsᴇ**
+**➻ ᴡʀɪᴛᴛᴇɴ ɪɴ [INSTAGRAM](https://www.instagram.com/nillcoderbot) ᴡɪᴛʜ [CHANNEL](https://www.telegram.me/shivu_o) ᴀs ᴀ ᴅᴀᴛᴀʙᴀsᴇ**
 **──────────────**
 **➻ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ ғᴏʀ ɢᴇᴛᴛɪɴɢ ʙᴀsɪᴄ ʜᴇʟᴩ ᴀɴᴅ ɪɴғᴏ ᴀʙᴏᴜᴛ [{BOT_NAME}](https://t.me/{BOT_USERNAME})**
 """
@@ -436,7 +436,7 @@ async def restart(client, m: Message):
 async def get_st(_, msg: Message):
     users = len(await get_served_users())
     chats = len(await get_served_chats())
-    await msg.reply_photo(photo="https://te.legra.ph/file/1967a714b5e6d491487ed.jpg",
+    await msg.reply_photo(photo="https://te.legra.ph/file/fe149e956df10e42d1da5.jpg",
                           caption=f"""ᴛᴏᴛᴀʟ sᴛᴀᴛs ᴏғ {BOT_NAME}
           ➻ **ᴄʜᴀᴛs :** {chats}
           ➻ **ᴜsᴇʀs :** {users}"""
@@ -454,7 +454,7 @@ async def ping(client, message: Message):
     ms = (datetime.now()-start).microseconds / 1000
     await message.reply_photo(
         photo=random.choice(PHOTO),
-        caption=f"нey вαву!!\n**[{BOT_NAME}](t.me/{BOT_USERNAME})** ιѕ alιve 🥀 αnd worĸιng ғιne wιтн a pιng oғ\n➥ `{ms}` ms\n\n<b>||мαdє ωιтн ❣️ ву [𝗡𝗜𝗟𝗟𝗖𝗢𝗗𝗘𝗥𝗕𝗢𝗧](https://t.me/{OWNER_USERNAME})||</b>",
+        caption=f"нey вαву!!\n**[{BOT_NAME}](t.me/{BOT_USERNAME})** ιѕ alιve 🥀 αnd worĸιng ғιne wιтн a pιng oғ\n➥ `{ms}` ms\n\n<b>||мαdє ωιтн ❣️ ву [SHIVU](https://t.me/{OWNER_USERNAME})||</b>",
         reply_markup=InlineKeyboardMarkup(PNG_BTN),
     )
 
