@@ -1,5 +1,5 @@
 #Don't remove This Line From Here. @shivu_o | @shivu_o
-#Github :- @NILLCODERBOT
+#Github :- @shivu_o
 import requests
 import random
 import os
